@@ -12,7 +12,7 @@
     <title>Fundación EISA</title>
   </head>
   <body>
-    <nav class="navbar navbar-expand-lg">
+    <nav class="navbar navbar-expand-lg sticky-top bg-white">
       <div class="container-fluid">
         <div class="navbar-brand">
           <a href="#" class="text-decoration-none">
@@ -47,7 +47,7 @@
               <a class="nav-link fw-bold" href="#">NOSOTROS</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link fw-bold" href="#">QUE HACEMOS</a>
+              <a class="nav-link fw-bold" href="#">¿QUE HACEMOS?</a>
             </li>
             <li class="nav-item">
               <a class="nav-link fw-bold" href="#">BLOG</a>
@@ -60,8 +60,8 @@
       </div>
     </nav>
     <main>
-      <div class="container mt-2">
-        <section class="row d-flex justify-content-center">
+      <div class="container-fluid mb-2" id="primera-seccion">
+        <section class="row d-flex justify-content-end">
           <div
             class="col-md-4 d-flex flex-column justify-content-center mb-2"
             id="info"
@@ -74,173 +74,187 @@
               también las condiciones de vida de los habitantes de lugar.
             </p>
           </div>
-          <div class="col-md-8 mb-2">
-            <div id="carrusel" class="carousel slide" data-bs-ride="carousel">
-              <div class="carousel-indicators">
-                <button
-                  type="button"
-                  data-bs-target="#carrusel"
-                  data-bs-slide-to="0"
-                  class="active"
-                  aria-current="true"
-                  aria-label="Slide 1"
-                ></button>
-                <button
-                  type="button"
-                  data-bs-target="#carrusel"
-                  data-bs-slide-to="1"
-                  aria-label="Slide 2"
-                ></button>
-                <button
-                  type="button"
-                  data-bs-target="#carrusel"
-                  data-bs-slide-to="2"
-                  aria-label="Slide 3"
-                ></button>
-              </div>
-              <div class="carousel-inner">
-                <div class="carousel-item active">
-                  <img
-                    src="Assets/proyecto-lagunas-secas.jpg"
-                    class="d-block w-100"
-                    alt="..."
-                  />
-                  <div class="carousel-caption d-md-block">
-                    <h5>Proyecto Manejo Sustentable de Tierras Secas</h5>
-                    <p>Acá iría una descripción breve...</p>
-                  </div>
-                </div>
-                <div class="carousel-item">
-                  <img
-                    src="Assets/lagunas-de-los-pozuelos.jpg"
-                    class="d-block w-100"
-                    alt="..."
-                  />
-                  <div class="carousel-caption d-md-block">
-                    <h5>Laguna de Los Pozuelos</h5>
-                    <p>Acá iría una descripción breve...</p>
-                  </div>
-                </div>
-                <div class="carousel-item">
-                  <img
-                    src="Assets/guanacache.jpg"
-                    class="d-block w-100"
-                    alt="..."
-                  />
-                  <div class="carousel-caption d-md-block">
-                    <h5>Laguna de Guanacache</h5>
-                    <p>Acá iría una descripción breve...</p>
-                  </div>
-                </div>
-              </div>
+          <div
+            id="carrusel"
+            class="carousel slide col-md-8 mb-2"
+            data-bs-ride="carousel"
+          >
+            <div class="carousel-indicators">
               <button
-                class="carousel-control-prev"
                 type="button"
                 data-bs-target="#carrusel"
-                data-bs-slide="prev"
-              >
-                <span
-                  class="carousel-control-prev-icon"
-                  aria-hidden="true"
-                ></span>
-                <span class="visually-hidden">Previous</span>
-              </button>
+                data-bs-slide-to="0"
+                class="active"
+                aria-current="true"
+                aria-label="Slide 1"
+              ></button>
               <button
-                class="carousel-control-next"
                 type="button"
                 data-bs-target="#carrusel"
-                data-bs-slide="next"
-              >
-                <span
-                  class="carousel-control-next-icon"
-                  aria-hidden="true"
-                ></span>
-                <span class="visually-hidden">Next</span>
-              </button>
+                data-bs-slide-to="1"
+                aria-label="Slide 2"
+              ></button>
+              <button
+                type="button"
+                data-bs-target="#carrusel"
+                data-bs-slide-to="2"
+                aria-label="Slide 3"
+              ></button>
             </div>
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <img
+                  src="Assets/proyecto-lagunas-secas.jpg"
+                  class="d-block w-100"
+                  alt="..."
+                />
+                <div class="carousel-caption d-md-block">
+                  <h5>Proyecto Manejo Sustentable de Tierras Secas</h5>
+                  <p>Acá iría una descripción breve...</p>
+                </div>
+              </div>
+              <div class="carousel-item">
+                <img
+                  src="Assets/lagunas-de-los-pozuelos.jpg"
+                  class="d-block w-100"
+                  alt="..."
+                />
+                <div class="carousel-caption d-md-block">
+                  <h5>Laguna de Los Pozuelos</h5>
+                  <p>Acá iría una descripción breve...</p>
+                </div>
+              </div>
+              <div class="carousel-item">
+                <img
+                  src="Assets/guanacache.jpg"
+                  class="d-block w-100"
+                  alt="..."
+                />
+                <div class="carousel-caption d-md-block">
+                  <h5>Laguna de Guanacache</h5>
+                  <p>Acá iría una descripción breve...</p>
+                </div>
+              </div>
+            </div>
+            <button
+              class="carousel-control-prev"
+              type="button"
+              data-bs-target="#carrusel"
+              data-bs-slide="prev"
+            >
+              <span
+                class="carousel-control-prev-icon"
+                aria-hidden="true"
+              ></span>
+              <span class="visually-hidden">Previous</span>
+            </button>
+            <button
+              class="carousel-control-next"
+              type="button"
+              data-bs-target="#carrusel"
+              data-bs-slide="next"
+            >
+              <span
+                class="carousel-control-next-icon"
+                aria-hidden="true"
+              ></span>
+              <span class="visually-hidden">Next</span>
+            </button>
           </div>
         </section>
       </div>
-      <section class="gallery d-flex flex-column justify-content-center">
-        <h1 class="mb-4 text-center fw-bold">Proyectos</h1>
-
-        <div class="row d-flex justify-content-center">
-          <div class="col-md-4 noticias">
-            <a href="#">
-              <img
-                src="Assets/Captura de pantalla 2023-12-04 120024.png"
-                alt="Noticia 1"
-                class="img-fluid"
-              />
-            </a>
-            <a href="#"><h5 class="mt-2">Ecoparque</h5></a>
-          </div>
-
-          <div class="col-md-4 noticias">
-            <a href="#">
-              <img
-                src="Assets/Captura de pantalla 2023-12-04 114351.png"
-                alt="Noticia 2"
-                class="img-fluid"
-              />
-            </a>
-            <a href="#"><h5 class="mt-2">Guanacache</h5></a>
-          </div>
-
-          <div class="col-md-4 noticias">
-            <a href="#">
-              <img src="Assets/viboron.jpg" alt="Noticia 3" class="img-fluid" />
-            </a>
-            <a href="#"><h5 class="mt-2">Aguas Verdes</h5></a>
-          </div>
-        </div>
-      </section>
-      <section class="gallery">
-        <h1 class="mb-4 text-center fw-bold">Noticias</h1>
-
+      <div class="container-fluid mt-2" id="mision-vision">
         <div class="row">
-          <div class="col-md-4 noticias">
-            <a href="#">
-              <img
-                src="Assets/Captura de pantalla 2023-12-04 120024.png"
-                alt="Noticia 1"
-                class="img-fluid"
-              />
-            </a>
-            <a href="#"
-              ><h5 class="mt-2">
-                Comenzaron las tareas de restauración en el Ecoparque
-              </h5></a
-            >
+          <div class="col text-center">
+            <h3>Nuestra misión</h3>
+            <img
+              src="Assets/target_FILL0_wght400_GRAD0_opsz24.svg"
+              class="icon"
+              alt=""
+            />
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt
+              assumenda tenetur corrupti debitis? Et, accusantium natus enim
+              illum quibusdam beatae aliquid ex modi labore quidem voluptate est
+              ea, earum quasi!
+            </p>
           </div>
-
-          <div class="col-md-4 noticias">
-            <a href="#">
-              <img
-                src="Assets/Captura de pantalla 2023-12-04 114351.png"
-                alt="Noticia 2"
-                class="img-fluid"
-              />
-            </a>
-            <a href="#"
-              ><h5 class="mt-2">
-                Nuestra participación en el Simposio de Restauracion Ecologica
-              </h5></a
-            >
-          </div>
-
-          <div class="col-md-4 noticias">
-            <a href="#">
-              <img src="Assets/viboron.jpg" alt="Noticia 3" class="img-fluid" />
-            </a>
-            <a href="#"
-              ><h5 class="mt-2">Evaluación de resultados en El Viborón</h5></a
-            >
+          <div class="col text-center">
+            <h3>Nuestra visión</h3>
+            <img
+              src="Assets/water_drop_FILL0_wght400_GRAD0_opsz24.svg"
+              class="icon"
+              alt=""
+            />
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente
+              suscipit earum optio ad! Obcaecati error laudantium culpa fuga
+              nulla? Reiciendis repellat enim provident dignissimos deserunt
+              doloribus consequatur hic ex dolorum.
+            </p>
           </div>
         </div>
-      </section>
+      </div>
+      <div class="container-fluid mt-2 mb-2">
+        <h3>Nuestros proyectos</h3>
+        <div class="row mt-4">
+          <div class="col-md-4 col-sm-6 mb-2">
+            <div class="card">
+              <img src="https://dummyimage.com/300" alt="" />
+              <div class="card-body">
+                <h5 class="card-title">Ecoparque</h5>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-6 mb-2">
+            <div class="card">
+              <img src="https://dummyimage.com/300" alt="" />
+              <div class="card-body">
+                <h5 class="card-title">Villavicencio</h5>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-6 mb-2">
+            <div class="card">
+              <img src="https://dummyimage.com/300" alt="" />
+              <div class="card-body">
+                <h5 class="card-title">Aguas Verdes</h5>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container-fluid mt-2 mb-2">
+        <h3>Novedades</h3>
+        <div class="row mt-4">
+          <div class="col-md-4 col-sm-6 mb-2">
+            <div class="card">
+              <img src="https://dummyimage.com/300" alt="" />
+              <div class="card-body">
+                <h5 class="card-title">Comenzó la restauración en Ecoparque</h5>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-6 mb-2">
+            <div class="card">
+              <img src="https://dummyimage.com/300" alt="" />
+              <div class="card-body">
+                <h5 class="card-title">Simposio de Restauración Ecológica</h5>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-6 mb-2">
+            <div class="card">
+              <img src="https://dummyimage.com/300" alt="" />
+              <div class="card-body">
+                <h5 class="card-title">Restauración de Ecoparque</h5>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </main>
-    <footer>
+    <footer class="bg-dark text-light">
       <div class="container">
         <div class="row">
           <div class="col-6">
