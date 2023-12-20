@@ -10,9 +10,9 @@
 
 /* Estilos comunes */
 body {
-  background-image: url(Assets/stacked-waves-haikei.svg);
+  /* background-image: url(Assets/stacked-waves-haikei.svg);
   background-size: cover;
-  background-repeat: no-repeat;
+  background-repeat: no-repeat; */
   font-family: 'Open Sans', sans-serif;
   margin: 0;
 }
@@ -32,7 +32,7 @@ h3 {
 }
 
 p {
-  font-size: 20px;
+  font-size: 18px;
   font-weight: 300;
 }
 
@@ -103,7 +103,7 @@ h5 {
 /*Footer*/
 
 footer {
-  padding: 30 0 20 0;
+  padding: 30px 0 20px 0;
   font-weight: 300;
 }
 
