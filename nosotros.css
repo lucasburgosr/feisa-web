@@ -78,6 +78,11 @@ p {
 
 /*Main*/
 
+h3 {
+  font-size: 22px;
+  font-weight: 600;
+}
+
 main ul {
   margin-left: -32px;
 }
