@@ -79,7 +79,7 @@ p {
 /*Main*/
 
 h3 {
-  font-size: 22px;
+  font-size: 20px;
   font-weight: 600;
 }
 
@@ -92,7 +92,12 @@ main ul li {
 }
 
 .card {
-  max-width: 540px;
+  max-width: 50%;
+  padding-left: 0;
+}
+
+.equipo-card {
+  border: none;
 }
 
 /*Footer*/
