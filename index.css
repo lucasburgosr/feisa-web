@@ -21,12 +21,12 @@ main {
   justify-content: center;
 }
 
-h2 {
+h1 {
   font-weight: 700;
   color: var(--secondary-blue);
 }
 
-h3 {
+h2 {
   font-weight: 600;
   color: var(--secondary-blue);
 }
@@ -82,16 +82,11 @@ h5 {
 
 /*Primera sección*/
 
-#info h2 {
+#info h1 {
   font-size: 40px;
 }
 
-
 /*Segunda sección*/
-
-#mision-vision {
- padding-top: 10px;
-}
 
 .icon {
   width: 60px;
@@ -109,6 +104,7 @@ footer {
 
 footer ul li {
   list-style: none;
+  margin-left: -25px;
 }
 
 footer ul li a {
@@ -117,5 +113,10 @@ footer ul li a {
 
 footer ul li:not(:last-child) {
   margin-bottom: 15px;
+}
+
+.logo-footer {
+  width: 150px;
+  height: auto;
 }
 

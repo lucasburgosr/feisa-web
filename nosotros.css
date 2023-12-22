@@ -119,3 +119,7 @@ footer ul li:not(:last-child) {
   margin-bottom: 15px;
 }
 
+.logo-footer {
+  width: 150px;
+  height: auto;
+}
