@@ -34,7 +34,10 @@ h2 {
 p {
   font-size: 18px;
   font-weight: 300;
+  text-align: justify;
 }
+
+
 
 /* Navbar */
 
@@ -91,9 +94,23 @@ main ul li {
   font-size: 18px;
 }
 
+h5 {
+  font-weight: 600;
+}
+
 .card {
   max-width: 50%;
   padding-left: 0;
+}
+
+.zoom-card {
+  transition: all 0.1s ease-out;
+  overflow: hidden;
+}
+
+.zoom-card:hover {
+  background-color: #004777;
+  color: white;
 }
 
 .equipo-card {
