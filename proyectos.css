@@ -5,4 +5,13 @@
     margin: 0 auto;
   }
 
+  .card-title {
+    font-size: 18px;
+    margin-left: -80px;
+  }
+
+  .img-fluid {
+    height: 215px;
+    width: auto;
+  }
   

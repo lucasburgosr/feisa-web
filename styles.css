@@ -98,3 +98,27 @@ footer ul li:not(:last-child) {
   width: 150px;
   height: auto;
 }
+
+/*Animaciones comunes*/
+
+.fade-up {
+  opacity: 0;
+  transform: translateY(50px);
+  transition: opacity 0.6s, transform 0.6s;
+}
+
+.fade-up.show {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.fade-right {
+  opacity: 0;
+  transform: translateX(50px);
+  transition: opacity 0.5s, transform 0.5s;
+}
+
+.fade-right.show {
+  opacity: 1;
+  transform: translateX(0);
+}

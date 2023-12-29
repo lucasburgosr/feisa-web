@@ -18,14 +18,3 @@
   height: auto;
 }
 
-.fadeUp {
-  opacity: 0;
-  transform: translateY(50px);
-  transition: opacity 0.6s, transform 0.6s;
-}
-
-.fadeUp.show {
-  opacity: 1;
-  transform: translateY(0);
-}
-
