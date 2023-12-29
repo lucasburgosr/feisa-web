@@ -1,8 +1,8 @@
-body {
+/* body {
   background-image: url(Assets/stacked-waves-haikei.svg);
   background-size: cover;
   background-repeat: no-repeat;
-}
+} */
 
 /*Primera sección*/
 
@@ -10,10 +10,22 @@ body {
   font-size: 40px;
 }
 
+
 /*Segunda sección*/
 
 .icon {
   width: 60px;
   height: auto;
+}
+
+.fadeUp {
+  opacity: 0;
+  transform: translateY(50px);
+  transition: opacity 0.6s, transform 0.6s;
+}
+
+.fadeUp.show {
+  opacity: 1;
+  transform: translateY(0);
 }
 
