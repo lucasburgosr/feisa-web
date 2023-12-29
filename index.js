@@ -1,25 +1,25 @@
 document.addEventListener('DOMContentLoaded', function () {
     var cards = document.querySelectorAll('.fadeUp');
 
-    function isElementInViewport(el, threshold) {
-        var rect = el.getBoundingClientRect();
-        return (
-            rect.top >= 0 &&
-            rect.bottom - threshold <= (window.innerHeight || document.documentElement.clientHeight)
-        );
-    }
+    var options = {
+        root: null, // Use the viewport as the root
+        rootMargin: '0px', // No margin around the root
+        threshold: 0.5 // Trigger animation when 50% of the element is in the viewport
+    };
 
-    function handleScroll() {
-        cards.forEach(function (card) {
-            if (isElementInViewport(card, 250)) { // Ajusta el valor de threshold según tus necesidades
-                card.classList.add('show');
+    var observer = new IntersectionObserver(handleIntersection, options);
+
+    function handleIntersection(entries) {
+        entries.forEach(function (entry) {
+            if (entry.isIntersecting) {
+                entry.target.classList.add('show');
+                observer.unobserve(entry.target);
             }
         });
     }
 
-    // Agrega un listener al evento scroll
-    window.addEventListener('scroll', handleScroll);
-
-    // Llama a handleScroll() una vez al cargar la página para verificar si las tarjetas ya están en el viewport
-    handleScroll();
+    // Observa cada tarjeta
+    cards.forEach(function (card) {
+        observer.observe(card);
+    });
 });
