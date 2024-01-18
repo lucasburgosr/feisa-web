@@ -1,0 +1,13 @@
+/*Main*/
+
+.card {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.card-title {
+  font-size: 18px;
+  color: #004777;
+}
+
+

@@ -1,0 +1,43 @@
+/* body {
+  background-image: url(Assets/stacked-waves-haikei.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+} */
+
+/*Primera sección*/
+
+#info h1 {
+  font-size: 40px;
+}
+
+
+/*Segunda sección*/
+
+.icon {
+  width: 60px;
+  height: auto;
+}
+
+.card-img-top {
+  transition: transform 0.3s ease;
+}
+
+/*Tercera sección*/
+/* Efecto de zoom al pasar el ratón (hover) */
+.card-img-top:hover {
+  transform: scale(1.1);
+}
+
+.container-fluid .text-decoration-none .titulo-proyectos {
+  display: inline; max-width: 100%
+}
+
+.flecha-derecha {
+  margin-bottom: 12px;
+  width: 30px;
+  height: auto;
+}
+
+.card-title {
+  color: #004777;
+}
