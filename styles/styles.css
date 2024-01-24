@@ -24,7 +24,7 @@ main {
 
 h1 {
   font-weight: 700;
-  color: var(--secondary-blue);
+  color: var(--apple-green);
 }
 
 h2 {
@@ -50,7 +50,7 @@ h5 {
 }
 
 .logo-feisa {
-  height: 55px;
+  height: 65px;
   width: auto;
 }
 
