@@ -49,29 +49,41 @@ function insertarImagenes(imagenes) {
   let contenido = "";
 
   for (let i = 0; i < imagenes.length; i++) {
-    contenido += `<div class="col-md-6">
-        <figure>
-            <img class="img-fluid" src="${imagenes[i]}">
-            <figcaption>
-                <p class="caption"><i>${obtenerCaption(imagenes[i])}</i></p>
-            </figcaption>
-        </figure>
-    </div>`;
+    if (i === imagenes.length - 1 && imagenes.length % 2 !== 0) {
+      // Último elemento en un div de ancho completo
+      contenido += `<div class="col-md-12">
+          <figure>
+              <img class="img-fluid" src="${imagenes[i]}">
+              <figcaption>
+                  <p class="caption"><i>${obtenerCaption(imagenes[i])}</i></p>
+              </figcaption>
+          </figure>
+      </div>`;
+    } else {
+      // Elementos regulares en divs de la mitad del ancho
+      contenido += `<div class="col-md-6">
+          <figure>
+              <img class="img-fluid" src="${imagenes[i]}">
+              <figcaption>
+                  <p class="caption"><i>${obtenerCaption(imagenes[i])}</i></p>
+              </figcaption>
+          </figure>
+      </div>`;
+    }
   }
 
   return contenido;
 }
 
-
 function obtenerCaption(ruta) {
-    const partesRuta = ruta.split('/');
-    const nombreArchivoConExtension = partesRuta[partesRuta.length - 1];
-  
-    // Remover la extensión para obtener solo el nombre del archivo
-    const nombreArchivo = nombreArchivoConExtension.split('.')[0];
-  
-    // Reemplazar guiones bajos con espacios en blanco
-    const nombreFormateado = nombreArchivo.replace(/_/g, ' ');
-  
-    return nombreFormateado;
+  const partesRuta = ruta.split("/");
+  const nombreArchivoConExtension = partesRuta[partesRuta.length - 1];
+
+  // Remover la extensión para obtener solo el nombre del archivo
+  const nombreArchivo = nombreArchivoConExtension.split(".")[0];
+
+  // Reemplazar guiones bajos con espacios en blanco
+  const nombreFormateado = nombreArchivo.replace(/_/g, " ");
+
+  return nombreFormateado;
 }

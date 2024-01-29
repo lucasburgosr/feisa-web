@@ -2,8 +2,8 @@
   "proyectos": [
     {
       "id": "1",
-      "titulo": "PLAN DE CONSERVACIÓN DEL BOSQUE NATIVO COMUNIDAD HUARPE 'GUANACACHE' DE LAS TRANCAS. SAN LUIS.",
-      "subtitulo": "Ley 26.331 Presupuestos Mínimos de Protección Ambiental de los Bosques Nativos. Entidad Ejecutora: Fundación para el Estudio e Intervención Socioambiental (FEISA) Entidad Asociada: Comunidad Huarpe “Guanacache”, La Tranca (2014-continua).",
+      "titulo": "PLAN DE CONSERVACIÓN DEL BOSQUE NATIVO COMUNIDAD HUARPE 'GUANACACHE' DE LAS TRANCAS. SAN LUIS (2014 - continúa).",
+      "subtitulo": "Ley 26.331 Presupuestos Mínimos de Protección Ambiental de los Bosques Nativos. Entidad Ejecutora: Fundación para el Estudio e Intervención Socioambiental (FEISA) Entidad Asociada: Comunidad Huarpe “Guanacache”, La Tranca.",
       "descripcion": "El proyecto tiene como objetivo la restauración de áreas de bosque mediante instancias participativas con la comunidad garantizando su identidad cultural. Detener el proceso de erosión retrocedente mediante el manejo de cárcavas que afectan al bosque y a los humedales. Se diseñó un manejo ganadero participativo en el marco de la conservación del bosque nativo. Fomentando las actividades productivas sustentables. Diseño de un sistema de control y monitoreo participativo con la comunidad.",
       "imagenes": [
         "/assets/Proy 1 La Tranca Bosque/Alumnos de la escuela de La Tranca.JPG",
@@ -22,14 +22,14 @@
     },
     {
       "id": "2",
-      "titulo": "REHABILITACIÓN, SANEAMIENTO Y REACONDICIONAMIENTO DEL HABITÁCULO DE LOS FLAMENCOS DEL ECOPARQUE MENDOZA.",
-      "subtitulo": "(Entidad Ejecutora: Fundación para el Estudio e Intervención Socioambiental (FEISA) financia: Secretaría de Ambiente y Ordenamiento Territorial. Gob. De Mendoza) 2023- continua.",
+      "titulo": "REHABILITACIÓN, SANEAMIENTO Y REACONDICIONAMIENTO DEL HABITÁCULO DE LOS FLAMENCOS DEL ECOPARQUE MENDOZA (2023 - continúa).",
+      "subtitulo": "(Entidad Ejecutora: Fundación para el Estudio e Intervención Socioambiental (FEISA) financia: Secretaría de Ambiente y Ordenamiento Territorial. Gob. De Mendoza).",
       "descripcion": "En esta primera etapa del proyecto, el objetivo es desarrollar un programa de rehabilitación sanitaria y ecológica de los flamencos del Ecoparque. Diseñando un plan de limpieza y saneamiento del habitáculo. Estudio físico, químico y biológico de agua. Gestión del agua para lograr un flujo continuo en el estanque. Implantar vegetación hidrófila (macrófitas/palustres) para la absorción de nutrientes. Incorporar un plantel controlado de individuos de especies acuáticas afines que estén disponibles en el Ecoparque como: coipos, gallaretas, anátidos, otros.",
       "imagenes":[
         "/assets/Proy 2 Eco/Estanque antes de las intervenciones junio del 2023.jpeg",
         "/assets/Proy 2 Eco/Estanque luego de las intervenciones noviembre del 2023.JPG",
         "/assets/Proy 2 Eco/Flamencos australes en habitaculo..JPG",
-        "/assets/Proy 2 Eco/IMG_7411.JPG",
+        "/assets/Proy 2 Eco/Flamencos en habitáculo.jpg",
         "/assets/Proy 2 Eco/Limpieza de estanque.jpeg",
         "/assets/Proy 2 Eco/Sector Oeste del predio luego de las intervenciones noviembre 2023.JPG",
         "/assets/Proy 2 Eco/Sector Oestre del predio antes de las intervenciones junio 2023.jpeg"
@@ -37,8 +37,8 @@
     },
     {
       "id": "3",
-      "titulo": "RESTAURACIÓN DEL HUMEDAL LAGUNA EL VIBORÓN MANEJO Y CONTROL TAMARINDO (TAMARIX SP.), MAIPÚ, MENDOZA.",
-      "subtitulo": "(Entidad Ejecutora: Fundación para el Estudio e Intervención Socioambiental (FEISA) Financia: Fundación EISA. Contraparte: Municipalidad de Maipú y Club Cristóbal Colón) 2021-2022.",
+      "titulo": "RESTAURACIÓN DEL HUMEDAL LAGUNA EL VIBORÓN MANEJO Y CONTROL TAMARINDO (TAMARIX SP.), MAIPÚ, MENDOZA (2021 - 2022).",
+      "subtitulo": "(Entidad Ejecutora: Fundación para el Estudio e Intervención Socioambiental (FEISA) Financia: Fundación EISA. Contraparte: Municipalidad de Maipú y Club Cristóbal Colón).",
       "descripcion": "El objetivo fue poner en marcha un plan de manejo y control del tamarindo para la restauración de los ambientes de orilla del espejo de agua. Se lograron acuerdos con instituciones responsables y las comunidades locales para la extracción de tamarindos alrededor de la laguna. Se realizaron intervenciones en sectores de orillas afectadas por la invasión de tamarindo, mediante acciones de restauración manual y con máquinas. Se capacitaron estudiantes, jóvenes participantes del proyecto y vecinos de la comunidad local.",
       "imagenes":[
         "/assets/Proy 3 Viborón/Extracción de ejemplares arboreos con maquina.JPG",
@@ -51,8 +51,8 @@
     },
     {
       "id": "4",
-      "titulo": "MONITOREO DE SENDEROS DE USO TURISTICO EN RESERVA NATURAL VILLAVICENCIO, MENDOZA, ARGENTINA.",
-      "subtitulo": "(Entidad Ejecutora: Fundación para el Estudio e Intervención Socioambiental (FEISA) financia: Fundación Villavicencio) 2022.",
+      "titulo": "MONITOREO DE SENDEROS DE USO TURISTICO EN RESERVA NATURAL VILLAVICENCIO, MENDOZA, ARGENTINA (2022).",
+      "subtitulo": "(Entidad Ejecutora: Fundación para el Estudio e Intervención Socioambiental (FEISA) financia: Fundación Villavicencio.",
       "descripcion": "El monitoreo del uso público es la acción de seguimiento permanente dirigida a determinar de manera temprana procesos de deterioro del medio ambiente producidos por los visitantes que amenacen los objetivos de conservación. Para esto es importante realizar algunas mediciones de las principales actividades que se desarrollan en los senderos para poder medir los impactos y planificar acciones de mitigación. Se monitorearon dos senderos principales de la RNV que tienen mayor uso.  Se midieron los indicadores de uso tal como: presencia de residuos, erosión de suelos, situación de la vegetación nativa, presencia de fauna, especies invasoras, entre otros. Esta información servirá de base para la gestión, mantenimiento y restauración de los senderos de uso turístico.",
       "imagenes":[
         "/assets/Proy 4 Senderos Villa/Evaluación de estado de los senderos para cabalgatas.jpg",
@@ -63,8 +63,8 @@
     },
     {
       "id": "5",
-      "titulo": "MANEJO DE ESPECIES EXÓTICAS. RESERVA NATURAL VILLAVICENCIO. PRUEBAS DE EXTRACCIÓN DE ROSA MOSQUETA PARA LA RESTAURACIÓN DE VEGA AGUA DEL PUMA ",
-      "subtitulo": "(Entidad Ejecutora: Fundación para el Estudio e Intervención Socioambiental (FEISA) financia: Fundación Villavicencio. Contraparte: Tecnicatura Superior en Conservación de la Naturaleza Sede Godoy Cruz) 2020- 2022.",
+      "titulo": "MANEJO DE ESPECIES EXÓTICAS. RESERVA NATURAL VILLAVICENCIO. PRUEBAS DE EXTRACCIÓN DE ROSA MOSQUETA PARA LA RESTAURACIÓN DE VEGA AGUA DEL PUMA (2020 - 2022).",
+      "subtitulo": "(Entidad Ejecutora: Fundación para el Estudio e Intervención Socioambiental (FEISA) financia: Fundación Villavicencio. Contraparte: Tecnicatura Superior en Conservación de la Naturaleza Sede Godoy Cruz.",
       "descripcion": "Se realizaron pruebas de extracción de ejemplares de rosa mosqueta en sectores de vegas. Se trabajó con extracción manual, con herramientas de mano y motoguadañas. El material extraído se retira del lugar y se gestiona fuera del área afectada. En diferentes campañas se lograron recuperar unos 300 m2 de vega que se encontraba cubierta por el rosedal.   En la vega descubierta se realizaron alguna intervención para recuperar su flujo natural (tipo laminar), para esto se realizaron champeos y pequeñas trampas de sedimento en zonas erosionadas.  Estas pruebas dieron como resultado la elaboración de programas y proyectos de manejo de la especie, y fue incorporado al Plan de Gestión de la RNV, como una de las Actividades Programáticas. ",
       "imagenes":[
         "/assets/Proy 5 Rosa Villa/El material sobrante se extrae del lugar.jpg",
@@ -76,8 +76,8 @@
     },
     {
       "id": "6",
-      "titulo": "RESTAURACIÓN DE HUMEDALES Y COSECHA DE AGUA DE LLUVIA EN REPRESAS PARA EL USO GANADERO, COMUNIDADED HUARPE “AGUAS VERDES”, SAN JUAN",
-      "subtitulo": "(Entidad Ejecutora: Fundación para el Estudio e Intervención Socioambiental (FEISA) junto a Comunidad huarpe, Secretaría de Ambiente Gobierno de San Juan. Financia: Empresa Chirino S.A.) 2021.",
+      "titulo": "RESTAURACIÓN DE HUMEDALES Y COSECHA DE AGUA DE LLUVIA EN REPRESAS PARA EL USO GANADERO, COMUNIDADED HUARPE “AGUAS VERDES”, SAN JUAN (2021).",
+      "subtitulo": "(Entidad Ejecutora: Fundación para el Estudio e Intervención Socioambiental (FEISA) junto a Comunidad huarpe, Secretaría de Ambiente Gobierno de San Juan. Financia: Empresa Chirino S.A.).",
       "descripcion": "El Proyecto tiene como objetivo contribuir con la restauración de los humedales de la localidad de Aguas Verdes dentro del Sitio Ramsar Lagunas de Guanacache, Desaguadero y del Bebedero; promoviendo la activa participación de comunidades locales. La cosecha de agua de lluvia se trata de aprovechar los viejos fondos de laguna, bañados, ciénagos, para colectar sedimentos y atrapar el agua de origen pluvial. El proyecto consiste en la construcción de obras de restauración en viejos fondos de lagunas y represas, con el objeto de que el agua de lluvia permanezca más tiempo en el sitio. De esta manera se recupera el acceso al agua dulce y fundamentalmente los principales servicios ecosistémicos que generan los humedales (pasturas, abrevaderos para el ganado y biodiversidad asociada, etc.)",
       "imagenes":[
         "/assets/Proy 6 Aguas Verdes/Estudios topograficos e hidrológicos para planificación de obras de restauración.jpg",
@@ -93,8 +93,8 @@
     },
     {
       "id": "7",
-      "titulo": "ELABORACIÓN DE MAPAS DE DISTRIBUCIÓN Y ABUNDANCIA DE ESPECIES EXÓTICAS RESERVA NATURAL VILLAVICENCIO, MENDOZA, ARGENTINA. ",
-      "subtitulo": "(Ailanthus altissima, Crataegus monogyna y Spatium junceum) (Entidad Ejecutora: Fundación para el Estudio e Intervención Socioambiental (FEISA) financia: Fundación Villavicencio) 2021.",
+      "titulo": "ELABORACIÓN DE MAPAS DE DISTRIBUCIÓN Y ABUNDANCIA DE ESPECIES EXÓTICAS RESERVA NATURAL VILLAVICENCIO, MENDOZA, ARGENTINA (2021).",
+      "subtitulo": "(Ailanthus altissima, Crataegus monogyna y Spatium junceum) (Entidad Ejecutora: Fundación para el Estudio e Intervención Socioambiental (FEISA) financia: Fundación Villavicencio).",
       "descripcion": "En este trabajo se realizaron mapas de distribución de tres especies invasoras de la RNV, árbol del cielo (Ailanthus altissima), espino blanco (Crataegus monogyna) y retama europea (Spatium junceum) y una primera aproximación a la abundancia y densidad de las tres especies en parches de distribución en la ruta Nº 52 y zonas de influencia.  Se determinó una superficie de un poco más de 70 hectáreas de distribución para las tres especies invasoras analizadas, de las cuales la retama europea fue la de mayor distribución ocupando el 80 % de la superficie total, le siguió el espino blanco con el 16 % y finalmente el árbol del cielo con el 3,4 %.",
       "imagenes":[
         "/assets/Proy 7 Exótica Villa/Parches de arbol del cielo en quebradas humedas.JPG"
@@ -107,8 +107,8 @@
     },
     {
       "id": "8",
-      "titulo": "MEJORAMIENTO DE RESERVORIOS DE AGUA DE LLUVIA PARA EL USO GANADERO DE LA COMUNIDAD HUARPE “SANTOS GUAYAMA” DE LA LOCALIDAD LAS LAGUNITAS, SITIO RAMSAR LAGUNAS DE GUANACACHE, DESAGUADERO Y DEL BEBEDERO. MENDOZA.",
-      "subtitulo": "(PROYECTO MANEJO SUSTENTABLE DE TIERRAS EN LAS ZONAS SECAS DEL NOROESTE ARGENTINO. PNUD ARG 14/G55) (Entidad Ejecutora: Fundación para el Estudio e Intervención Socioambiental (FEISA) Contraparte Fundación Humedales) 2020 -2021",
+      "titulo": "MEJORAMIENTO DE RESERVORIOS DE AGUA DE LLUVIA PARA EL USO GANADERO DE LA COMUNIDAD HUARPE “SANTOS GUAYAMA” DE LA LOCALIDAD LAS LAGUNITAS, SITIO RAMSAR LAGUNAS DE GUANACACHE, DESAGUADERO Y DEL BEBEDERO. MENDOZA (2020 - 2021).",
+      "subtitulo": "(PROYECTO MANEJO SUSTENTABLE DE TIERRAS EN LAS ZONAS SECAS DEL NOROESTE ARGENTINO. PNUD ARG 14/G55) (Entidad Ejecutora: Fundación para el Estudio e Intervención Socioambiental (FEISA) Contraparte Fundación Humedales).",
       "descripcion": "El Proyecto tiene como objetivo contribuir al mejoramiento de reservorios de agua dulce, represas y pozos balde; promoviendo la activa participación de comunidades locales. La captura de agua de lluvia en reservorios mejorados, es una práctica ancestral que estos pueblos vienen realizando históricamente. Se trata de para redirigir y atrapar el agua de lluvia en suelos bajos, arcillosos que en general se tratan de viejos fondos de humedales y ciénagos. Se realizarán obras para el acondicionamiento de bordos, terraplenes o de represas preexistentes y acciones para el mejoramiento de los cursos de agua de las avenidas superficiales (acequias, hijuelas o canales naturales). De esta manera se podrá recuperar el acceso al agua dulce, mejorar su mantenimiento y aprovechar mejor los servicios ecosistémicos fundamentales tal como el mejoramiento de las pasturas, abrevaderos para el ganado y biodiversidad asociada entre otros. Se construyeron 30 represas familiares y una represa comunitaria. Se vieron beneficiadas 45 familias pertenecientes a la comunidad huarpe Santos Guayama, la Escuela Primaria “Ceferino Namuncura” y el poblado de la localidad de las Lagunitas, Lavalle, Mendoza",
       "imagenes":[
         "/assets/Proy 8 Represas Lagunitas/El diseño y ubicación de la represa se realizan en el campo con cada ganadero. Por situación de pandemia no se realizaron talleres..JPG",
@@ -119,8 +119,8 @@
     },
     {
       "id": "9",
-      "titulo": "CONSTRUCCIÓN DE REPRESAS, PARA CAPTURA DE AGUA DE LLUVIA PARA EL USO GANADERO DE LA COMUNIDAD HUARPE “JOSÉ ANDRÉS DÍAZ” DE SAN MIGUEL, SITIO RAMSAR LAGUNAS DE GUANACACHE, DESAGUADERO Y DEL BEBEDERO. MENDOZA.",
-      "subtitulo": "(PROYECTO MANEJO SUSTENTABLE DE TIERRAS EN LAS ZONAS SECAS DEL NOROESTE ARGENTINO. PNUD ARG 14/G55) (Entidad Ejecutora: Fundación para el Estudio e Intervención Socioambiental (FEISA) Contraparte Fundación Humedales) 2020 – 2021.",
+      "titulo": "CONSTRUCCIÓN DE REPRESAS, PARA CAPTURA DE AGUA DE LLUVIA PARA EL USO GANADERO DE LA COMUNIDAD HUARPE “JOSÉ ANDRÉS DÍAZ” DE SAN MIGUEL, SITIO RAMSAR LAGUNAS DE GUANACACHE, DESAGUADERO Y DEL BEBEDERO. MENDOZA (2020 – 2021).",
+      "subtitulo": "(PROYECTO MANEJO SUSTENTABLE DE TIERRAS EN LAS ZONAS SECAS DEL NOROESTE ARGENTINO. PNUD ARG 14/G55) (Entidad Ejecutora: Fundación para el Estudio e Intervención Socioambiental (FEISA) Contraparte Fundación Humedales).",
       "descripcion": "Tiene como objetivo contribuir con la restauración de los servicios ambientales que en su momento prestaban los humedales de Guanacache; promoviendo la activa participación de comunidades locales. La captura de agua de lluvia en reservorios mejorados, se trata de aprovechar los viejos fondos de humedales, para redirigir y atrapar el agua de origen pluvial. Mediante la construcción de bordos, terraplenes o represas como reservorios y redireccionando los cursos de las avenidas superficiales mejorando acequias, hijuelas o canales naturales, se pretende colectar el agua de lluvia para que permanezca más tiempo en el sitio. De esta manera se podrá recuperar el acceso al agua dulce y sus servicios ecosistémicos: como el mejoramiento de las pasturas, abrevaderos para el ganado y biodiversidad asociada entre otros. Se construyeron y se equiparon 30 represas para el aprovechamiento agua acumulada y generación de pastoreo para unos 45 grupos familiares.",
       "imagenes":[
         "/assets/Proy 9 Represas San Miguel/Acuerdos con cada ganadero para la ubicación de la represa.JPG",
@@ -133,8 +133,8 @@
     },
     {
       "id": "10",
-      "titulo": "MANEJO DE ESPECIES EXÓTICAS. RESERVA NATURAL VILLAVICENCIO. COSECHA DE FRUTOS DE ROSA MOSQUETA PARA ELABORACIÓN DE DULCES. GRUPO DE MUJERES DE BARRIOS ALEDAÑOS",
-      "subtitulo": "(Entidad Ejecutora: Fundación para el Estudio e Intervención Socioambiental (FEISA) financia: Fundación Villavicencio) 2020.",
+      "titulo": "MANEJO DE ESPECIES EXÓTICAS. RESERVA NATURAL VILLAVICENCIO. COSECHA DE FRUTOS DE ROSA MOSQUETA PARA ELABORACIÓN DE DULCES. GRUPO DE MUJERES DE BARRIOS ALEDAÑOS (2020).",
+      "subtitulo": "(Entidad Ejecutora: Fundación para el Estudio e Intervención Socioambiental (FEISA) financia: Fundación Villavicencio.",
       "descripcion": "En el marco del Proyecto de manejo de especies invasoras del Plan de Gestión de la Reserva Natural Villavicencio. Se llevó adelante acciones de extracción de frutos de rosa mosqueta para la elaboración de dulces artesanales. Se trabajo con mujeres de barrios vecinos que forman parte de una asociación local; Vivero Flora Nativa. Trabajaron además técnicos y guardaparques de la RNV. La idea es lograr hacer un aprovechamiento de los frutos de la rosa mosqueta, además de implementar tareas de erradicación de la especie debido al impacto negativo que provoca al ambiente.",
       "imagenes":[
         "/assets/Proy 10 Frutos rosa Villa/Cosecha manual de frutos de rosa mosqueta.jpg",
@@ -145,8 +145,8 @@
     },
     {
       "id": "11",
-      "titulo": "APROVECHAMIENTO DE AGUA DE LLUVIA PARA LA RECUPERACIÓN DE HUMEDALES DE GUANACACHE, EN COMUNIDAD HUARPE “Guanacache”, LA TRANCA. SAN LUIS. ",
-      "subtitulo": "(Proyecto PNUD ARG 14/55). Entidad Ejecutora: Fundación para el Estudio e Intervención Socioambiental (FEISA) Entidad Asociada: Comunidad Huarpe “Guanacache”, La Tranca (2019 - 2020)",
+      "titulo": "APROVECHAMIENTO DE AGUA DE LLUVIA PARA LA RECUPERACIÓN DE HUMEDALES DE GUANACACHE, EN COMUNIDAD HUARPE “Guanacache”, LA TRANCA. SAN LUIS (2019 - 2020). ",
+      "subtitulo": "(Proyecto PNUD ARG 14/55). Entidad Ejecutora: Fundación para el Estudio e Intervención Socioambiental (FEISA) Entidad Asociada: Comunidad Huarpe “Guanacache”, La Tranca.",
       "descripcion": "El Proyecto tiene como objetivo contribuir con la restauración de humedales del Sitio RAMSAR Lagunas de Guanacache, Desaguadero y del Bebedero; promoviendo la activa participación de comunidades locales y la revalorización del sitio. Con este proyecto se trata de aprovechar los reservorios naturales que existen en el sitio de los viejos humedales (bañados, ciénagos, lagunas) para colectar y atrapar el agua de origen pluvial, que en la actualidad por problemas de erosión (formación de cárcavas) el agua escurre por el colector principal del sistema (Río Desaguadero).",
       "imagenes":[
         "/assets/Proy 11 San Luis obras lluvia/Campamento base para  construcción de obras.JPG",
@@ -160,8 +160,8 @@
     },
     {
       "id": "12",
-      "titulo": "COSECHA DE AGUA DE LLUVIA EN RESERVORIOS PARA EL APROVECHAMIENTO GANADERO DE LAS COMUNIDADES LOCALES, EN LA LOCALIDAD DE EL FORZUDO, SITIO RAMSAR LAGUNAS DE GUANACACHE, DESAGUADERO Y DEL BEBEDERO. MENDOZA.",
-      "subtitulo": "(Proyecto PNUD ARG 14/55). (Entidad Ejecutora: Fundación para el Estudio e Intervención Socioambiental (FEISA) Entidad Asociada: Comunidad Huarpe “Jose´Ramón Guaquinchay” y Fundación Humedales) (2019-2020)",
+      "titulo": "COSECHA DE AGUA DE LLUVIA EN RESERVORIOS PARA EL APROVECHAMIENTO GANADERO DE LAS COMUNIDADES LOCALES, EN LA LOCALIDAD DE EL FORZUDO, SITIO RAMSAR LAGUNAS DE GUANACACHE, DESAGUADERO Y DEL BEBEDERO. MENDOZA (2019 - 2020).",
+      "subtitulo": "(Proyecto PNUD ARG 14/55). (Entidad Ejecutora: Fundación para el Estudio e Intervención Socioambiental (FEISA) Entidad Asociada: Comunidad Huarpe “Jose´Ramón Guaquinchay” y Fundación Humedales)",
       "descripcion": "El Proyecto tiene como objetivo contribuir con la restauración de los servicios ambientales que en su momento prestaban los humedales de Guanacache; promoviendo la activa participación de comunidades locales. La cosecha de agua de lluvia se trata de aprovechar los viejos fondos de laguna, bañados, ciénagos, para colectar y atrapar el agua de origen pluvial. El proyecto consiste en la construcción de bordos y represas (en viejos fondos lagunares), con el objeto de captar el agua de lluvia para que permanezca más tiempo en el sitio. De esta manera se recupera el acceso al agua dulce y fundamentalmente sus servicios ecosistémicos (pasturas, abrevaderos para el ganado y biodiversidad asociada, etc.)",
       "imagenes":[
         "/assets/Proy 12 Represas El Forzudo/Construcción de represas de agua de lluvia.JPG",
@@ -177,8 +177,8 @@
     },
     {
       "id": "13",
-      "titulo": "CURSO DE CAPACITACIÓN EN TEMATICAS DE HUMEDALES. ORIENTADO A PERSONAL TÉCNICO Y GUARDAPARQUES DEL SITIO RAMSAR RESERVA NATURAL VILLAVICENCIO.",
-      "subtitulo": "(Entidad Ejecutora: Fundación para el Estudio e Intervención Socioambiental (FEISA) Financia: Fundación Villavicencio). 2019",
+      "titulo": "CURSO DE CAPACITACIÓN EN TEMATICAS DE HUMEDALES. ORIENTADO A PERSONAL TÉCNICO Y GUARDAPARQUES DEL SITIO RAMSAR RESERVA NATURAL VILLAVICENCIO (2019).",
+      "subtitulo": "(Entidad Ejecutora: Fundación para el Estudio e Intervención Socioambiental (FEISA) Financia: Fundación Villavicencio).",
       "descripcion": "Luego de la designación de la RNV como Sitio Ramsar el año 2017. Es el sitio N° 2330 de la lista, el tercero de la provincia de Mendoza y la primera reserva natural de gestión privada del país con esta declaración. Se realizó un curso de capacitación teórico-práctico dirigido al personal a cargo de su gestión (técnicos, guardaparques y guías de turismo). Con el objeto de brindar información y herramientas de manejo y conservación sobre los humedales. Con temas relacionados a la gestión de Sitios Ramsar, herramientas de la Convención. Ecología de humedales. Caracterización y clasificación de humedales. Herramientas para el inventario de humedales y monitoreo de las características ecológicas. El curso tuvo una duración de cinco días, con un total de 36 horas, de las cuales 24 fueron teóricas y 12 de campo.",
       "imagenes":[
         "/assets/Proy 13 Curso Humedales Villa/Curso de capacitación para personal técnico y guardaparques de la Reserva Privada Villavicencio.jpg",
@@ -190,8 +190,8 @@
     },
     {
       "id": "14",
-      "titulo": "ACTUALIZACIÓN DEL PLAN DE GESTIÓN DE LA RESERVA PRIVADA VILLAVICENCIO (RPV), MENDOZA, ARGENTINA.",
-      "subtitulo": "(Entidad Ejecutora: Fundación para el Estudio e Intervención Socioambiental (FEISA) Financia: Fundación Villavicencio) 2017-2018.",
+      "titulo": "ACTUALIZACIÓN DEL PLAN DE GESTIÓN DE LA RESERVA PRIVADA VILLAVICENCIO (RPV), MENDOZA, ARGENTINA (2017-2018).",
+      "subtitulo": "(Entidad Ejecutora: Fundación para el Estudio e Intervención Socioambiental (FEISA) Financia: Fundación Villavicencio).",
       "descripcion": "Este documento fue preparado, en el marco de la Actualización del Plan de Manejo (Puig et al. 2008) por técnicos de la Fundación Vida Silvestre Argentina con aportes de todas las áreas de la Reserva Natural Villavicencio como un insumo para el proceso de planificación que esta Reserva viene realizando desde el comienzo de la gestión. Se realizó una nueva actualización, adecuado al formato oficial de los Planes de Gestión y Uso Público de la Provincia de Mendoza. Actualmente se encuentra en implementación. ",
       "imagenes":[
         "/assets/Proy 14 Plan de Gestión Villa/Taller Actividades Programáticas (1).JPG",
@@ -201,8 +201,8 @@
     },
     {
       "id": "15",
-      "titulo": "INFORME DE PARTIDA - EVALUACIÓN DE IMPACTO AMBIENTAL PARA LA REGULACION DE LA CANTERA MUNICIPAL ARROYO LA BEBIDA.  EXPTE. Nº 6039/2014. MUNICIPALIDAD DE MALARGÜE, MENDOZA. ",
-      "subtitulo": "(Entidad Ejecutora: Fundación para el Estudio e Intervención Socioambiental (FEISA) Financia: Municipalidad de Malargüe) 2014-2015.",
+      "titulo": "INFORME DE PARTIDA - EVALUACIÓN DE IMPACTO AMBIENTAL PARA LA REGULACION DE LA CANTERA MUNICIPAL ARROYO LA BEBIDA.  EXPTE. Nº 6039/2014. MUNICIPALIDAD DE MALARGÜE, MENDOZA (2014-2015). ",
+      "subtitulo": "(Entidad Ejecutora: Fundación para el Estudio e Intervención Socioambiental (FEISA) Financia: Municipalidad de Malargüe).",
       "descripcion": "El objeto del Informe de Partida es poder corregir o adaptar cada una de las actividades que se realicen en la obra de acuerdo a las posibilidades técnicas y conforme a los requerimientos que puedan establecerse por normativas. En el documento se presenta la situación ambiental de la Cantera Arroyo La Bebida (Cuenca El Durazno) y se dan algunas pautas para minimizar los posibles impactos que puedan ocurrir por la actividad.",
       "imagenes":[
         "/assets/Proy 15 Cantera Malargüe/Ambiente circundante. Comunidad de solupe.JPG",
