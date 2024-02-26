@@ -75,6 +75,16 @@ function insertarImagenes(imagenes) {
   return contenido;
 }
 
+function insertarDocumentos() {
+  let contenido1 = "";
+
+  contenido += `<div class="container">
+    <h2>Descargar PDF</h2>
+  </div>`;
+
+  return contenido1;
+}
+
 function obtenerCaption(ruta) {
   const partesRuta = ruta.split("/");
   const nombreArchivoConExtension = partesRuta[partesRuta.length - 1];
