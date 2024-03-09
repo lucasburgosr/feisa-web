@@ -8,15 +8,8 @@
 }
 
 body {
-  font-family: "Open Sans", sans-serif;
   margin: 0;
   background-color: #EAF2DD;
-  /* background: rgb(231, 203, 152);
-  background: linear-gradient(
-    0deg,
-    rgba(231, 203, 152, 1) 0%,
-    rgba(255, 255, 255, 1) 100%
-  ); */
 }
 
 main {
@@ -24,26 +17,35 @@ main {
 }
 
 h1 {
+  font-family: "Montserrat", sans-serif;
   font-weight: 700;
   color: var(--apple-green);
 }
 
 h2 {
   font-weight: 600;
+  font-family: "Shanti", sans-serif;
   color: var(--apple-green);
 }
 
 p {
+  font-family: "Hind Madurai", sans-serif;
   font-size: 20px;
   font-weight: 300;
   text-align: justify;
 }
 
 h5 {
+  font-family: "Shanti", sans-serif;
   font-weight: 600;
 }
 
+
 /* Navbar */
+
+.navbar {
+  font-family: "Montserrat", sans-serif;
+}
 
 .navbar-brand {
   width: 35%;
@@ -52,6 +54,7 @@ h5 {
 }
 
 .socioambiental {
+  font-family: "Hind Madurai", sans-serif;
   letter-spacing: 1px;
   font-weight: 300;
   font-size: 18px;
@@ -95,7 +98,12 @@ footer {
   font-weight: 300;
 }
 
+footer p {
+  font-family: "Montserrat", sans-serif;
+}
+
 footer ul li {
+  font-family: "Hind Madurai", sans-serif;
   list-style: none;
   margin-left: -25px;
 }
