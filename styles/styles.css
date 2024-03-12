@@ -9,7 +9,8 @@
 
 body {
   margin: 0;
-  background-color: #EAF2DD;
+  /*background-color: #EAF2DD;*/
+  background-color: #f3f1e7;
 }
 
 main {
@@ -23,9 +24,8 @@ h1 {
 }
 
 @media only screen and (max-width: 768px) {
-  /* Estilos para dispositivos con un ancho máximo de 767px (dispositivos móviles) */
   h1 {
-    margin-top: 25px; /* Ajusta este valor según sea necesario */
+    margin-top: 25px;
   }
 }
 
